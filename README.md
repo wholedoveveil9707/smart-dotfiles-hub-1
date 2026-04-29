@@ -1,2 +1,9 @@
-# smart-dotfiles-hub-1
-A simple dotfiles project
+# Dotfiles
+
+A simple dotfiles project.
+\n
+## Getting Started
+
+```bash
+python dotfiles.py
+```
